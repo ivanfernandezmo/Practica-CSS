@@ -1,0 +1,19 @@
+article p{
+    margin-bottom: 1em;
+  }
+
+  h2 {
+    text-align: center;
+    margin: 1em auto 0.5em;
+    border: 3px solid black;
+    width: 50%;
+    border-radius: 15px;
+    background-color: rgb(206, 218, 230);
+  }
+
+  main article{
+    border: 3px solid black;
+  border-radius: 15px;
+  padding: 10px;
+  background-color: rgb(206, 218, 230);
+  }

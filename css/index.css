@@ -1,0 +1,54 @@
+main {
+  display: block;
+}
+
+aside {
+  float: left;
+  margin-bottom: 1em;
+}
+
+article {
+  clear: left;
+  overflow: hidden;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 0.5em;
+  margin-top: 1em;
+  border: 3px solid black;
+  width: 50%;
+  border-radius: 15px;
+  margin-left: 12em;
+  background-color: rgb(206, 218, 230);
+}
+
+article div {
+  text-align: center;
+  margin-top: 1em;
+ 
+}
+
+.article3 {
+  border: 3px solid black;
+  border-radius: 15px;
+  padding: 10px;
+  background-color: rgb(206, 218, 230);
+}
+
+.article1 {
+  margin-top: 10px;
+  border: 3px solid black;
+  border-radius: 15px;
+  padding: 10px;
+  background-color: rgb(206, 218, 230);
+}
+
+.article2 {
+  margin-top: 10px;
+  border: 3px solid black;
+  border-radius: 15px;
+  padding: 10px;
+  background-color: rgb(206, 218, 230);
+}
+
